@@ -1,0 +1,4 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/lua/lua
+	branch = v5.3
